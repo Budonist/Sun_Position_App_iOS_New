@@ -47,7 +47,7 @@ Die Antwort liegt an **einem Tippen**: großer Status (☀️ Sonne / 🌑 Geb
 
 ## Was die App kann
 
-- **Frei antippbare Karte** (MapKit): jeder Punkt in 10961 – Gehüweg, Außengastronomie, Parkbank, Hof – nicht auf eine POI-Datenbank beschränkt. Die grundlegende Einheit ist eine **geografische Koordinate**.
+- **Frei antippbare Karte** (MapKit): jeder Punkt in 10961 – Gehweg, Außengastronomie, Parkbank, Hof – nicht auf eine POI-Datenbank beschränkt. Die grundlegende Einheit ist eine **geografische Koordinate**.
 - **Sofortergebnis**: direkte Sonne / Gebäudeschatten / Nacht, mit dem nächsten Statuswechsel.
 - **Tagesverlauf** als kompakte, farbige Timeline (Gelb = Sonne, Grau = Schatten, Schwarz = Nacht) plus Sonnenfenster-Liste mit Gesamtdauer.
 - **Zeit-Slider** (Sonnenaufgang–Sonnenuntergang) für interaktives Erkunden; **Datum-Selektor** (heute / morgen / beliebiges Datum).
